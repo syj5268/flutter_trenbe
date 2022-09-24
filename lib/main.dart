@@ -57,8 +57,8 @@ class MyApp extends StatelessWidget {
                 child: Column(children: [
                   Image.asset(
                     "assets/images/image1.png",
-                    width: 100,
-                    height: 100,
+                    width: 80,
+                    height: 80,
                   ),
                   Text("여성")
                 ]),
@@ -67,8 +67,8 @@ class MyApp extends StatelessWidget {
                 child: Column(children: [
                   Image.asset(
                     "assets/images/image2.png",
-                    width: 100,
-                    height: 100,
+                    width: 80,
+                    height: 80,
                   ),
                   Text("남성")
                 ]),
@@ -77,8 +77,8 @@ class MyApp extends StatelessWidget {
                 child: Column(children: [
                   Image.asset(
                     "assets/images/image3.png",
-                    width: 100,
-                    height: 100,
+                    width: 80,
+                    height: 80,
                   ),
                   Text("키즈")
                 ]),
@@ -87,8 +87,8 @@ class MyApp extends StatelessWidget {
                 child: Column(children: [
                   Image.asset(
                     "assets/images/image4.png",
-                    width: 100,
-                    height: 100,
+                    width: 80,
+                    height: 80,
                   ),
                   Text("리세일")
                 ]),
@@ -97,8 +97,8 @@ class MyApp extends StatelessWidget {
                 child: Column(children: [
                   Image.asset(
                     "assets/images/image5.png",
-                    width: 100,
-                    height: 100,
+                    width: 80,
+                    height: 80,
                   ),
                   Text("아울렛")
                 ]),
@@ -109,8 +109,8 @@ class MyApp extends StatelessWidget {
                 child: Column(children: [
                   Image.asset(
                     "assets/images/image6.png",
-                    width: 100,
-                    height: 100,
+                    width: 80,
+                    height: 80,
                   ),
                   Text("하이엔드")
                 ]),
@@ -119,8 +119,8 @@ class MyApp extends StatelessWidget {
                 child: Column(children: [
                   Image.asset(
                     "assets/images/image7.png",
-                    width: 100,
-                    height: 100,
+                    width: 80,
+                    height: 80,
                   ),
                   Text("인기지갑")
                 ]),
@@ -129,8 +129,8 @@ class MyApp extends StatelessWidget {
                 child: Column(children: [
                   Image.asset(
                     "assets/images/image8.png",
-                    width: 100,
-                    height: 100,
+                    width: 80,
+                    height: 80,
                   ),
                   Text("스니커즈")
                 ]),
@@ -139,8 +139,8 @@ class MyApp extends StatelessWidget {
                 child: Column(children: [
                   Image.asset(
                     "assets/images/image9.png",
-                    width: 100,
-                    height: 100,
+                    width: 80,
+                    height: 80,
                   ),
                   Text("세일")
                 ]),
@@ -149,8 +149,8 @@ class MyApp extends StatelessWidget {
                 child: Column(children: [
                   Image.asset(
                     "assets/images/image10.png",
-                    width: 100,
-                    height: 100,
+                    width: 80,
+                    height: 80,
                   ),
                   Text("럭셔리워치")
                 ]),
