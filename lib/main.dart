@@ -179,7 +179,7 @@ class buttonchange extends StatefulWidget {
 }
 
 class _buttonchangeState extends State<buttonchange> {
-  int _selectedIndex = 2;
+  int _selectedIndex = 3;
   void _onItemTapped(int index) {
     setState(() {
       _selectedIndex = index;
